@@ -1,1 +1,3 @@
-# Data Warehouse\nSQL scripts and related files for the data warehouse
+# Data Warehouse
+
+SQL scripts and related files for the data warehouse
