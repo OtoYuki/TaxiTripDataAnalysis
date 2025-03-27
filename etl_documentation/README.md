@@ -1,1 +1,3 @@
-# ETL Documentation\nDetails of the ETL process and data dictionary.
+# ETL Documentation
+
+Details of the ETL process and data dictionary.

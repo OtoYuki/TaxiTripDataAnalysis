@@ -1,1 +1,3 @@
-# Business Intelligence\nLinks to PowerBI reports and dashboards.
+# Business Intelligence
+
+Links to PowerBI reports and dashboards.

@@ -1,1 +1,3 @@
-# Data Warehouse Scripts\nSQL scripts for schema creation.
+# Data Warehouse Scripts
+
+SQL scripts for schema creation.

@@ -1,1 +1,3 @@
-# Big Data Processing\nPySpark scripts for processing taxi trip data
+# Big Data Processing
+
+PySpark scripts for processing taxi trip data

@@ -1,1 +1,3 @@
-# Data Mining\nScripts and notebooks for data mining analysis.
+# Data Mining
+
+Scripts and notebooks for data mining analysis.
