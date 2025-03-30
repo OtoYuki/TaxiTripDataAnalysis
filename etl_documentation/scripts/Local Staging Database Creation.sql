@@ -1,0 +1,1 @@
+CREATE DATABASE TaxiTripStaging_Local;
